@@ -5,18 +5,20 @@
 
 ---
 ##  *Enthusiast Artifical Intelligence & Machine Learning Student , From INDIA*
+
+
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Your Tech/Frameworks]**  
-- 💻 Passionate about **[Your Interests e.g. Web Dev, AI, Game Development]**  
-- 🎯 Goal: **[Your Career Goal e.g. Build innovative AI-powered apps]**  
-- 📝 Check out my resume [here](https://your-resume-link.com)  
+- 🌱 I’m currently learning **RAG Models & AI Models**  
+- 💻 Passionate about **AI&ML Dev**  
+- 🎯 Goal: **Build Multiple AI Agents and Help in Open Source**  
+
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](pathakbhavesh2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
-- 🅾 Instagram: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+- 📧 Email: [pathakbhavesh2005@gmail.com](pathakbhavesh2005@gmail.com)  
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
+- 🅾 Instagram: [Instagram([bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/))  
 
 ---
 
