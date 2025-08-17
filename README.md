@@ -4,8 +4,7 @@
   
 
 ---
-## * Enthusiast Artifical Intelligence & Machine Learning Student , From 🇮🇳*DIA*
--------------------------------------------
+## * Enthusiast Artifical Intelligence & Machine Learning Student , From *INDIA*
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Your Tech/Frameworks]**  
 - 💻 Passionate about **[Your Interests e.g. Web Dev, AI, Game Development]**  
