@@ -4,7 +4,7 @@
   
 
 ---
-## * Enthusiast Artifical Intelligence & Machine Learning Student , From 🇮🇳 
+## * Enthusiast Artifical Intelligence & Machine Learning Student , From 🇮🇳*DIA*
 -------------------------------------------
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Your Tech/Frameworks]**  
