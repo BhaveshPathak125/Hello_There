@@ -1,4 +1,4 @@
-# 👋 Hello, There Myself [Bhavesh D Pathak]
+# 👋 Hello, There Myself **Bhavesh D Pathak
 
 ![Welcome GIF](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4343b7ac-2846-4c61-b405-ff4981782e63" />
 )  
