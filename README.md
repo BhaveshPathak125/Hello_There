@@ -4,7 +4,8 @@
   
 
 ---
-
+## * Enthusiast Artifical Intelligence & Machine Learning Student , From 🇮🇳 
+-------------------------------------------
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Your Tech/Frameworks]**  
 - 💻 Passionate about **[Your Interests e.g. Web Dev, AI, Game Development]**  
@@ -14,9 +15,9 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+- 📧 Email: [your.email@example.com](pathakbhavesh2005@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
+- 🅾 Instagram: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
 
 ---
 
