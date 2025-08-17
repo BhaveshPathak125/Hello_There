@@ -1,7 +1,6 @@
-# 👋 Hello, There Myself **Bhavesh D Pathak
+# 👋 Hello, There Myself *Bhavesh D Pathak8
 
-![Welcome GIF](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4343b7ac-2846-4c61-b405-ff4981782e63" />
-)  
+![Welcome GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FB1gnvk&psig=AOvVaw2-_ovpaLFRBRBqdZ47ynEF&ust=1755531246928000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCCj9eVko8DFQAAAAAdAAAAABAf)  
 
 ---
 
