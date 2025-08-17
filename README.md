@@ -18,7 +18,7 @@
 ## 📫 Contact Me
 - 📧 Email: [pathakbhavesh2005@gmail.com](pathakbhavesh2005@gmail.com)  
 - 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/bhavesh-pathak-013368295/)  
-- 🅾 Instagram: [Instagram([bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/))  
+- 🅾 Instagram: [bhavesh_pathak15](https://www.instagram.com/bhavesh_pathak15/)  
 
 ---
 
