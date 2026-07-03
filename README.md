@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bhavesh D Pathak 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/Room at dawn 2 1012.gif"
+  <img src="https://github.com/BhaveshPathak125/Hello_There/blob/main/m3roj-batman-day-export.gif"
        alt="MasterHead"
        height="500"
        style="max-width: 100%; border-radius: 12px;" />
